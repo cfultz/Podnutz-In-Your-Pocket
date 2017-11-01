@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "327904473747",
+    "firebase_url": "https://vigilant-quanta-159808.firebaseio.com",
+    "project_id": "vigilant-quanta-159808",
+    "storage_bucket": "vigilant-quanta-159808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327904473747:android:c1392ac5987a52e7",
+        "android_client_info": {
+          "package_name": "info.sipnet.podnutzinyourpocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327904473747-e5ianc9qnkde69s851er9nk83gjp1dbs.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "327904473747-ht2o6vm1bd8nffrkem25mebgoeq993o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6prhsLoBkphQuy9uj8EY8r8-hUzkRk3s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_rss"
+            android:icon="@android:drawable/ic_btn_speak_now"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_androidappaddicts"
+            android:icon="@mipmap/android"
+            android:title="Android App Addicts" />
+        <item
+            android:id="@+id/nav_booknutz"
+            android:icon="@mipmap/intrduce"
+            android:title="Booknutz" />
+        <item
+            android:id="@+id/nav_computerrepair"
+            android:icon="@drawable/nut"
+            android:title="Computer Repair Show" />
+        <item
+            android:id="@+id/nav_ddg"
+            android:icon="@mipmap/ads"
+            android:title="DDG" />
+        <item
+            android:id="@+id/nav_geeksters"
+            android:icon="@mipmap/google_play_games"
+            android:title="Geeksters" />
+        <item
+            android:id="@+id/nav_linux"
+            android:icon="@drawable/ic_linux"
+            android:title="Linux For the Rest of Us" />
+        <item
+            android:id="@+id/nav_makers"
+            android:icon="@mipmap/changelog"
+            android:title="The Makers" />
+        <item
+            android:id="@+id/nav_minipc"
+            android:icon="@mipmap/star"
+            android:title="Mini PC Show" />
+        <item
+            android:id="@+id/nav_mrp"
+            android:icon="@mipmap/bitbucket"
+            android:title="MRP Podcast" />
+        <item
+            android:id="@+id/nav_podnutzpro"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Podnutz Pro" />
+        <item
+            android:id="@+id/nav_mhhd"
+            android:icon="@drawable/ic_hard_drive"
+            android:title="My Hard Drive Died!" />
+        <item
+            android:id="@+id/nav_daily"
+            android:icon="@drawable/nut"
+            android:title="Podnutz Daily" />
+        <item
+            android:id="@+id/nav_sportsnutz"
+            android:icon="@mipmap/dribbble"
+            android:title="Sportsnutz" />
+
+    </group>
+
+</menu>
