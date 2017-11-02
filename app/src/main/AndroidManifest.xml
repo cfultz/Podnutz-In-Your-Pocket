@@ -25,12 +25,12 @@
         </activity>
 
         <service
-            android:name="Firebase.MyFirebaseInstanceIDService"
+            android:name="info.sipnet.podnutzinyourpocket.Firebase.MyFirebaseInstanceIDService"
             android:enabled="true"
             android:exported="true" >
         </service>
         <service
-            android:name="Firebase.MyFirebaseMessagingService"
+            android:name="info.sipnet.podnutzinyourpocket.Firebase.MyFirebaseMessagingService"
             android:enabled="true"
             android:exported="true">
         </service>

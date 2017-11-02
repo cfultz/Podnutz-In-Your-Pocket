@@ -1,4 +1,4 @@
-package Firebase;
+package info.sipnet.podnutzinyourpocket.Firebase;
 
 import android.util.Log;
 

@@ -35,7 +35,7 @@
         <item
             android:id="@+id/nav_makers"
             android:icon="@mipmap/changelog"
-            android:title="The Makers" />
+            android:title="The Makerz" />
         <item
             android:id="@+id/nav_minipc"
             android:icon="@mipmap/star"
